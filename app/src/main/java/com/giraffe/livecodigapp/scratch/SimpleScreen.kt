@@ -9,9 +9,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.giraffe.livecodigapp.ui.theme.LiveCodigAppTheme
 
-/**
- * Empty starting point for Jetpack Compose interview tasks.
- */
 @Composable
 fun SimpleScreen(
     modifier: Modifier = Modifier,
@@ -20,9 +17,7 @@ fun SimpleScreen(
         modifier = modifier
             .fillMaxSize()
             .padding(24.dp),
-    ) {
-        // Build the interview UI here.
-    }
+    ) {}
 }
 
 @Preview(showBackground = true)
