@@ -2,6 +2,8 @@
 
 These are concise answers to the highest-probability questions in the supplied Android master bank and mock-interviewer pack. Practice saying each answer in your own words in under two minutes.
 
+For deeper Kotlin, OOP, access-modifier, anonymous-object, and SOLID practice, use `KOTLIN_OOP_SOLID_100_QA.md`.
+
 ## Kotlin and coroutines
 
 ### What does `suspend` mean?

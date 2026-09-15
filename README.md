@@ -54,6 +54,7 @@ playground/              Fast Kotlin/JVM module; no emulator needed
   playground/            Solved Kotlin, algorithm, coroutine examples
   scratch/               Clean main() and suspend-function starting point
   test/                   Algorithm and concurrent-token-refresh tests
+KOTLIN_OOP_SOLID_100_QA.md  100 answered Kotlin, OOP, SOLID, and core-code questions
 INTERVIEW_CHEAT_SHEET.md  Short verbal answers for the highest-probability topics
 ```
 
